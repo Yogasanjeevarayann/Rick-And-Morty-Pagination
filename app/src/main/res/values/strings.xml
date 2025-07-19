@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="no_characters_found">No Characters Found</string>
+    <string name="retry">Retry…</string>
+</resources>
